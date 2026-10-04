@@ -71,6 +71,14 @@ cd ba-ma-gua
 
 ## 使用
 
+安装后可以直接说“扒马褂”或“帮我扒一下马褂”，附上链接、项目名或待核查的主张：
+
+```text
+扒马褂 https://github.com/QingYunA/answer-me-with-html
+```
+
+也可以显式调用技能。单纯询问“扒马褂是什么意思”属于事实查询，不启动评估流程。
+
 Codex：
 
 ```text
