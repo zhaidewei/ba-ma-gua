@@ -1,0 +1,6 @@
+interface:
+  display_name: "扒马褂"
+  short_description: "拆解新概念和宣传，核查实际增量、替代方案与价值"
+  default_prompt: "使用 $ba-ma-gua 为这个工具、项目或主张扒马褂：拆出已有组件，选择最强基线，比较实际差异、替代方案、证据和未知项，再判断新增价值。"
+policy:
+  allow_implicit_invocation: true
