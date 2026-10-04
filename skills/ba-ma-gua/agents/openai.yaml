@@ -1,6 +1,6 @@
 interface:
   display_name: "扒马褂"
-  short_description: "拆解新概念和宣传，核查实际增量、替代方案与价值"
-  default_prompt: "使用 $ba-ma-gua 为这个工具、项目或主张扒马褂：拆出已有组件，选择最强基线，比较实际差异、替代方案、证据和未知项，再判断新增价值。"
+  short_description: "快速拆解新名字，映射已有概念，简述创新与价值增量"
+  default_prompt: "使用 $ba-ma-gua 为这个新名字、工具、项目或主张扒马褂：依据实际职责和机制，用熟悉概念解释它是什么，指出已有部分，分别简述创新增量与价值增量，区分已看清、声称新增和尚未看清。到能解释关键差异时停止；选型、成本测量和深入验证按后续请求展开。"
 policy:
   allow_implicit_invocation: true
